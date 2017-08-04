@@ -8,7 +8,7 @@ body {
     margin-right: auto;
 }
 
-.top-buffer {
+.top-buffer, .item h1, .item h2 {
     margin-top: 25px;
 }
 
