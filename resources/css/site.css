@@ -27,3 +27,7 @@ body {
 .trait {
     font-size: 50px;
 }
+
+.carousel-inner .text-right {
+    padding-right: 20px;
+}

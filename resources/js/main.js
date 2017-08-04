@@ -1,5 +1,5 @@
 /* global jQuery:true */
-'use-strict'
+'use strict';
 (function ($) {
   $(function () {
     $('.carousel').carousel({
