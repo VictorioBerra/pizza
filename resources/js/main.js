@@ -2,16 +2,15 @@
 'use strict';
 (function ($) {
   $(function () {
-
     // Have the carousel control fill the screen
-    var height = $(window).height();
-    jQuery('#carousel').css('height',height+'px');
+    var height = $(window).height()
+    jQuery('#carousel').css('height', height + 'px')
 
     $('.carousel').carousel({
       interval: false
-    });
+    })
 
-    hideArrowsMaybe();
+    hideArrowsMaybe()
 
     $('#carousel').on('slid.bs.carousel', '', hideArrowsMaybe)
   })
