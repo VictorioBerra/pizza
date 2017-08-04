@@ -1,0 +1,25 @@
+{
+  "name": "pizza",
+  "version": "1.0.0",
+  "description": "Extra pepperoni please.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthayer1990/pizza.git"
+  },
+  "author": "Brian Thayer",
+  "contributors": [{
+    "name": "Victorio Berra",
+    "email": "toryberra@gmail.com",
+    "url": "https://www.tberra.com/"
+  }],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bthayer1990/pizza/issues"
+  },
+  "homepage": "https://github.com/bthayer1990/pizza#readme",
+  "private": true
+}
