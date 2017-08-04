@@ -12,16 +12,8 @@ body {
     margin-top: 25px;
 }
 
-.top-buffer-medium {
-    margin-top: 50px;
-}
-
 .top-buffer-large {
     margin-top: 75px;
-}
-
-.vertical-center {
-    margin-top: 260px;
 }
 
 .trait {
